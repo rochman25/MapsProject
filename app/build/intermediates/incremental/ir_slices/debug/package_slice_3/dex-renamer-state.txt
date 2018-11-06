@@ -1,0 +1,4 @@
+#Tue Nov 06 15:30:06 WIB 2018
+base.0=/root/AndroidStudioProject/MapsProject/app/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex
